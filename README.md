@@ -1,6 +1,8 @@
 # COMPARADOR DE PREÇOS
 
-Este código demonstra a lógica por trás de um aplicativo hipotético que compararia o preço e o peso de dois ou mais produtos de supermercado e retornaria qual o mais vantajoso para o comprador final.
+Este código demonstra a lógica por trás de um aplicativo hipotético que **compararia o preço e o peso de dois ou mais produtos de supermercado**e retornaria qual o **mais vantajoso para o comprador final.**
+
+![Imagem do App](app.png)
 
 ## Jornada do usuário
 
