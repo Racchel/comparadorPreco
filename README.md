@@ -34,7 +34,7 @@ Lista de produtos com:
 
 ---
 
-##Backend
+## Backend
 
 1. Receber uma **lista de produtos** com nome, valor unitário, unidade de medida e peso de cada produto
 2. Verificar se todos os produtos **possuem a mesma unidade de medida**
@@ -54,7 +54,7 @@ Lista de produtos com:
 
 > Após esse passo, podemos dizer qual a quantidade de produtos (de cada item dessa nova lista) necessária para alcançar o maior peso identificado. Com isso, temos também o preço unitário do produto e o preço total dessa possível compra.
 
-6.**Unificar todos os produtos** com peso e preço atualizado e o produto de maior peso **em uma única lista**
+6. **Unificar todos os produtos** com peso e preço atualizado e o produto de maior peso **em uma única lista**
 
 > Desse modo, temos uma lista onde todos os produtos possuem a mesma unidade de medida convertida e o mesmo peso total, mas com o preço total referente à quantidade de produtos necessária para alcançar o maior peso
 
